@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://s1.ax1x.com/2018/08/28/POCVFx.md.gif" alt="Linux logo"/>
+  <img src="https://s1.ax1x.com/2018/08/28/POCVFx.gif" alt="Linux logo"/>
 </p>
 
 
